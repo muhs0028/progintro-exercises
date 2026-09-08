@@ -1,5 +1,5 @@
 README.md
 Salat:
-- Kylling
+- Chicken
 - Pommes
-- Banan.
+- Banana.
