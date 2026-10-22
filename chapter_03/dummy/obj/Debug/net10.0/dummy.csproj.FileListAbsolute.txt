@@ -1,0 +1,15 @@
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\bin\Debug\net10.0\dummy.exe
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\bin\Debug\net10.0\dummy.deps.json
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\bin\Debug\net10.0\dummy.runtimeconfig.json
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\bin\Debug\net10.0\dummy.dll
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\bin\Debug\net10.0\dummy.pdb
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.AssemblyInfoInputs.cache
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.AssemblyInfo.cs
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.csproj.CoreCompileInputs.cache
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.sourcelink.json
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.dll
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\refint\dummy.dll
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.pdb
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\dummy.genruntimeconfig.cache
+C:\Users\muhs0\OneDrive\Dokumenter\Github\progintro-exercises\chapter_03\dummy\obj\Debug\net10.0\ref\dummy.dll
